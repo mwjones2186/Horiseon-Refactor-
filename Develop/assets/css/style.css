@@ -1,3 +1,5 @@
+/* Main body*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,9 @@
 body {
     background-color: #d9dcd6;
 }
+
+
+/*Header*/
 
 .header {
     padding: 20px;
@@ -59,6 +64,9 @@ p {
     background-position: center;
 }
 
+
+/* SEO, ORM and SMM content boxes*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -78,7 +86,6 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
@@ -171,6 +178,10 @@ p {
     max-height: 200px;
 }
 
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 
 /*Social Media Marketing*/
@@ -184,11 +195,6 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -199,17 +205,10 @@ p {
 }
 
 
-
-
 /*Footer Section*/
 
 .footer {
     padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+   
 }
 
-.footer h2 {
-    font-size: 20px;
-}
