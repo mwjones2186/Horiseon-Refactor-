@@ -22,7 +22,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 60px;
 }
 
 .header h1 .seo {
@@ -34,7 +34,7 @@ body {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 27px;
 }
 
 .header div ul {
@@ -44,7 +44,10 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
+/*END OF HEADER*/
+
 
 a {
     color: #ffffff;
@@ -52,11 +55,11 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .hero {
-    height: 800px;
+    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -78,7 +81,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 80%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -87,7 +90,7 @@ p {
     margin-right: 20px;
     padding: 20px;
     float: right;
-    width: 20%;
+    width: 15%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -159,7 +162,7 @@ p {
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 
