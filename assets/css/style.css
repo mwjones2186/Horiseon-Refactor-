@@ -143,7 +143,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+ul >li .a {
+    flex-shrink: inherit;
 
+}
 
 /*Search Engine Opt*/
 
